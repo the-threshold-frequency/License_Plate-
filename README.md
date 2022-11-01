@@ -1,1 +1,1 @@
-# License_Plate-
+# License plate number extraction from image 
